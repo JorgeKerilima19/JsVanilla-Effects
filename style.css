@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+.boxContainer{
+    overflow: hidden;
+}
 .boxEffect{
     margin: 0 auto;
     height: 8rem;
